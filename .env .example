@@ -1,0 +1,2 @@
+# Copie este arquivo para .env e ajuste se necessário.
+WAREHOUSE_PATH=database/warehouse.duckdb

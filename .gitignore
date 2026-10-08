@@ -1,0 +1,27 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+
+# Configuração local e segredos
+.env
+
+# Banco gerado pelos scripts (não se versiona)
+database/*.duckdb
+database/*.duckdb.wal
+
+# Relatórios gerados (mantém só o .gitkeep)
+reports/*
+!reports/.gitkeep
+
+# IDE / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

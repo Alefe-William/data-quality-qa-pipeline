@@ -1,0 +1,24 @@
+[project]
+name = "data-quality-qa-pipeline"
+version = "0.1.0"
+description = "Pipeline automatizado de QA e Data Quality para um Data Warehouse fictício (ShopData)."
+requires-python = ">=3.12"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-ra"
+
+[tool.ruff]
+line-length = 88
+target-version = "py312"
+extend-exclude = [".venv"]
+
+[tool.ruff.lint]
+select = [
+    "E",   # erros de estilo (pycodestyle)
+    "F",   # erros lógicos (imports não usados, variáveis indefinidas)
+    "I",   # ordenação de imports
+    "B",   # armadilhas comuns (flake8-bugbear)
+    "UP",  # sintaxe moderna do Python
+]
