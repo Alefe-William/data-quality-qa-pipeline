@@ -14,9 +14,10 @@ def test_duckdb_runs_in_memory_query() -> None:
 
 
 def test_duckdb_reads_pandas_dataframe() -> None:
-    """DuckDB deve conseguir consultar um DataFrame do Pandas diretamente."""
+    """DuckDB deve conseguir consultar um DataFrame do Pandas."""
     sales = pd.DataFrame({"sale_id": [1, 2, 3], "total_amount": [10.0, 20.0, 30.0]})
     connection = duckdb.connect(":memory:")
+    connection.register("sales", sales)
 
     total = connection.execute("SELECT SUM(total_amount) FROM sales").fetchone()
 

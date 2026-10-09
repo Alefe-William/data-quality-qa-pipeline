@@ -22,3 +22,6 @@ select = [
     "B",   # armadilhas comuns (flake8-bugbear)
     "UP",  # sintaxe moderna do Python
 ]
+
+[tool.ruff.format]
+line-ending = "lf"
