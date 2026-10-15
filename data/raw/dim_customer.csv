@@ -1,0 +1,31 @@
+customer_id,customer_name,email,city,state,created_at
+1,Diego Almeida,diego.almeida.1@example.com,Porto Alegre,RS,2024-09-07
+2,Hugo Esteves,hugo.esteves.2@example.com,Rio de Janeiro,RJ,2025-11-23
+3,Tiago Cardoso,tiago.cardoso.3@example.com,Brasília,DF,2025-03-08
+4,Bruno Almeida,bruno.almeida.4@example.com,Rio de Janeiro,RJ,2024-08-11
+5,Hugo Teixeira,hugo.teixeira.5@example.com,Brasília,DF,2024-01-28
+6,Tiago Gomes,tiago.gomes.6@example.com,Goiânia,GO,2025-03-05
+7,Hugo Silva,hugo.silva.7@example.com,Brasília,DF,2024-10-11
+8,Ana Ferreira,ana.ferreira.8@example.com,Recife,PE,2024-12-14
+9,Igor Esteves,igor.esteves.9@example.com,Curitiba,PR,2024-12-10
+10,Diego Cardoso,diego.cardoso.10@example.com,Recife,PE,2024-04-09
+11,Marina Pereira,marina.pereira.11@example.com,Brasília,DF,2024-09-27
+12,Bruno Silva,bruno.silva.12@example.com,Goiânia,GO,2024-05-07
+13,Nicolas Cardoso,nicolas.cardoso.13@example.com,Goiânia,GO,2024-10-27
+14,Marina Gomes,marina.gomes.14@example.com,Rio de Janeiro,RJ,2024-02-16
+15,Hugo Nunes,hugo.nunes.15@example.com,Rio de Janeiro,RJ,2024-08-26
+16,Diego Ramos,diego.ramos.16@example.com,Porto Alegre,RS,2025-04-09
+17,Marina Ferreira,marina.ferreira.17@example.com,Salvador,BA,2024-12-29
+18,Gabriela Martins,gabriela.martins.18@example.com,Rio de Janeiro,RJ,2025-09-15
+19,Felipe Lima,felipe.lima.19@example.com,Belo Horizonte,MG,2025-04-18
+20,Nicolas Martins,nicolas.martins.20@example.com,Goiânia,GO,2024-08-12
+21,Lucas Barbosa,lucas.barbosa.21@example.com,Curitiba,PR,2024-02-02
+22,Lucas Ramos,lucas.ramos.22@example.com,Porto Alegre,RS,2024-03-08
+23,Gabriela Oliveira,gabriela.oliveira.23@example.com,Curitiba,PR,2025-11-02
+24,Rafael Ramos,rafael.ramos.24@example.com,Fortaleza,CE,2024-05-26
+25,Igor Esteves,igor.esteves.25@example.com,Curitiba,PR,2025-07-28
+26,Tiago Martins,tiago.martins.26@example.com,Brasília,DF,2025-03-14
+27,Vitor Ramos,vitor.ramos.27@example.com,Salvador,BA,2024-08-12
+28,Elisa Teixeira,elisa.teixeira.28@example.com,Fortaleza,CE,2024-04-03
+29,Bruno Dias,bruno.dias.29@example.com,Belo Horizonte,MG,2025-10-04
+30,Felipe Santos,felipe.santos.30@example.com,Brasília,DF,2024-03-06

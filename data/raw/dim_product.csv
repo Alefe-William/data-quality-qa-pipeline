@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_price
+1,Teclado Mecânico,Periféricos,249.90
+2,Mouse Sem Fio,Periféricos,89.90
+3,Mouse Gamer,Periféricos,159.90
+4,Webcam Full HD,Periféricos,199.90
+5,Headset USB,Periféricos,179.90
+6,Monitor 24 polegadas,Monitores,849.90
+7,Monitor 27 polegadas,Monitores,1299.90
+8,Suporte para Monitor,Monitores,129.90
+9,SSD 480GB,Armazenamento,279.90
+10,SSD 1TB,Armazenamento,499.90
+11,HD Externo 1TB,Armazenamento,379.90
+12,Pen Drive 64GB,Armazenamento,49.90
+13,Mousepad Grande,Acessórios,59.90
+14,Hub USB-C,Acessórios,149.90
+15,Cabo HDMI 2m,Acessórios,39.90
+16,Carregador 65W,Acessórios,119.90
+17,Cadeira Ergonômica,Mobiliário,1199.90
+18,Mesa Home Office,Mobiliário,899.90
+19,Luminária de Mesa,Mobiliário,69.90
+20,Apoio para Notebook,Mobiliário,79.90
